@@ -2,7 +2,7 @@ apiVersion: v2
 name: atomi-otel-operator
 description: Helm chart to deploy operator for OTEL collectors
 type: application
-version: 1.0.0
+version: 1.0.1
 appVersion: "0.34.1"
 dependencies:
   - name: opentelemetry-operator
