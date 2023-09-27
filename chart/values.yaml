@@ -1,0 +1,30 @@
+serviceTree:
+  landscape: pichu
+  cluster: opal
+  platform: systems
+  service: telemetry-collector
+  layer: "1"
+otel:
+  replicaCount: 3
+  manager:
+    resources:
+      requests:
+        cpu: 100m
+        memory: 128Mi
+      limits:
+        cpu: 200m
+        memory: 256Mi
+    podAnnotations:
+      atomi.cloud/landscape: pichu
+      atomi.cloud/cluster: opal
+      atomi.cloud/platform: systems
+      atomi.cloud/service: telemetry-collector
+      atomi.cloud/designation: operator
+      atomi.cloud/layer: "1"
+    podLabels:
+      atomi.cloud/landscape: pichu
+      atomi.cloud/cluster: opal
+      atomi.cloud/platform: systems
+      atomi.cloud/service: telemetry-collector
+      atomi.cloud/designation: operator
+      atomi.cloud/layer: "1"

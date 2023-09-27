@@ -1,0 +1,1 @@
+Deployed open telemetry collector operator

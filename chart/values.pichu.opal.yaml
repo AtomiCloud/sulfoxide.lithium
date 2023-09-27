@@ -1,0 +1,31 @@
+serviceTree:
+  landscape: pichu
+  cluster: opal
+otel:
+  replicaCount: 3
+  manager:
+    resources:
+      requests:
+        cpu: 100m
+        memory: 128Mi
+      limits:
+        cpu: 200m
+        memory: 256Mi
+    podAnnotations:
+      atomi.cloud/landscape: pichu
+      atomi.cloud/cluster: opal
+    podLabels:
+      atomi.cloud/landscape: pichu
+      atomi.cloud/cluster: opal
+auth:
+  internal:
+    enable: false
+  external:
+    enable: true
+    remoteSecretName: /pichu/manual/otel-collector/grafana-cloud-tokens
+    secretStore:
+      name: aws-ssm-secret-store
+      kind: ClusterSecretStore
+    policy:
+      creation: Owner
+      deletion: Retain
