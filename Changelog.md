@@ -1,3 +1,15 @@
+## [1.1.0](https://github.com/AtomiCloud/sulfoxide.lithium/compare/v1.0.1...v1.1.0) (2023-09-28)
+
+
+### 🚀 New Features
+
+* value yaml example ([f241bbf](https://github.com/AtomiCloud/sulfoxide.lithium/commit/f241bbf4af88839aa6657391e910989377af5863))
+
+
+### 🐛 Bug Fixes
+
+* change Taskfile and Chart.yaml to use sulfoxide-lithium ([8674879](https://github.com/AtomiCloud/sulfoxide.lithium/commit/8674879cb65c7a1d299acf99d0da783d62e2d9df))
+
 ## [1.0.1](https://github.com/AtomiCloud/sulfoxide.lithium/compare/v1.0.0...v1.0.1) (2023-09-27)
 
 
