@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/AtomiCloud/sulfoxide.lithium/compare/v1.1.1...v1.1.2) (2023-09-30)
+
+
+### 🐛 Bug Fixes
+
+* change cluster render to cluster template ([2a06dbd](https://github.com/AtomiCloud/sulfoxide.lithium/commit/2a06dbd3bc2760f36766083301f0aa69d47363fa))
+
 ## [1.1.1](https://github.com/AtomiCloud/sulfoxide.lithium/compare/v1.1.0...v1.1.1) (2023-09-30)
 
 
