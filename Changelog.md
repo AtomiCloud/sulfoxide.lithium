@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/AtomiCloud/sulfoxide.lithium/compare/v1.1.0...v1.1.1) (2023-09-30)
+
+
+### 🐛 Bug Fixes
+
+* Taskfile latest incorrect description ([dcf3336](https://github.com/AtomiCloud/sulfoxide.lithium/commit/dcf3336c9156f1839c95b3dde609fa96607bd60a))
+
 ## [1.1.0](https://github.com/AtomiCloud/sulfoxide.lithium/compare/v1.0.1...v1.1.0) (2023-09-28)
 
 
