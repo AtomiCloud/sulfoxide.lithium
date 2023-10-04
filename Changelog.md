@@ -1,3 +1,10 @@
+## [1.1.3](https://github.com/AtomiCloud/sulfoxide.lithium/compare/v1.1.2...v1.1.3) (2023-10-04)
+
+
+### 🐛 Bug Fixes
+
+* remove trace of tr8 ([d61da7d](https://github.com/AtomiCloud/sulfoxide.lithium/commit/d61da7d4c8f6d1b6ab71538b4c3eab847ed7ef4f))
+
 ## [1.1.2](https://github.com/AtomiCloud/sulfoxide.lithium/compare/v1.1.1...v1.1.2) (2023-09-30)
 
 
