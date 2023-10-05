@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/AtomiCloud/sulfoxide.lithium/compare/v1.2.0...v1.2.1) (2023-10-05)
+
+
+### 🐛 Bug Fixes
+
+* pichu, pikachu and raichu missing cluster in values name ([eb612ed](https://github.com/AtomiCloud/sulfoxide.lithium/commit/eb612ed44f138d5f3b51249793a724a41f98b862))
+
 ## [1.2.0](https://github.com/AtomiCloud/sulfoxide.lithium/compare/v1.1.3...v1.2.0) (2023-10-05)
 
 
