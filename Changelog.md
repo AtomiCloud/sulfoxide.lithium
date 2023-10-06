@@ -1,3 +1,10 @@
+## [1.3.1](https://github.com/AtomiCloud/sulfoxide.lithium/compare/v1.3.0...v1.3.1) (2023-10-06)
+
+
+### 🐛 Bug Fixes
+
+* remove virtual cluster values ([869284d](https://github.com/AtomiCloud/sulfoxide.lithium/commit/869284dadb260a54992482b1e7ab79c7c2ad1dcc))
+
 ## [1.3.0](https://github.com/AtomiCloud/sulfoxide.lithium/compare/v1.2.1...v1.3.0) (2023-10-06)
 
 
