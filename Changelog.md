@@ -1,3 +1,10 @@
+## [1.3.0](https://github.com/AtomiCloud/sulfoxide.lithium/compare/v1.2.1...v1.3.0) (2023-10-06)
+
+
+### 🚀 New Features
+
+* values for lithium ([4781287](https://github.com/AtomiCloud/sulfoxide.lithium/commit/4781287a8301e128a7a1e02510fd5127d5ea1427))
+
 ## [1.2.1](https://github.com/AtomiCloud/sulfoxide.lithium/compare/v1.2.0...v1.2.1) (2023-10-05)
 
 
