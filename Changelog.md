@@ -1,3 +1,10 @@
+## [1.4.0](https://github.com/AtomiCloud/sulfoxide.lithium/compare/v1.3.1...v1.4.0) (2023-10-07)
+
+
+### 🚀 New Features
+
+* upgrade OTEL chart ([6fbd199](https://github.com/AtomiCloud/sulfoxide.lithium/commit/6fbd19939eda05849710344ebd42cd72254e81bd))
+
 ## [1.3.1](https://github.com/AtomiCloud/sulfoxide.lithium/compare/v1.3.0...v1.3.1) (2023-10-06)
 
 
