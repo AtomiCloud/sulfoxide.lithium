@@ -10,7 +10,21 @@ includes:
     vars:
       LANDSCAPE: pichu
       CLUSTER: opal
-
+  pikachu:opal:
+    taskfile: tasks/Taskfile.cluster.yaml
+    vars:
+      LANDSCAPE: pikachu
+      CLUSTER: opal
+  raichu:opal:
+    taskfile: tasks/Taskfile.cluster.yaml
+    vars:
+      LANDSCAPE: raichu
+      CLUSTER: opal
+  entei:opal:
+    taskfile: tasks/Taskfile.cluster.yaml
+    vars:
+      LANDSCAPE: entei
+      CLUSTER: opal
 tasks:
   # Utility
   start:cluster:
