@@ -16,6 +16,8 @@ tags: &tags
 otel:
   replicaCount: 3
   manager:
+    collectorImage:
+      tag: v0.86.0
     resources:
       requests:
         cpu: 100m
