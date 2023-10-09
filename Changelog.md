@@ -1,3 +1,10 @@
+## [1.5.1](https://github.com/AtomiCloud/sulfoxide.lithium/compare/v1.5.0...v1.5.1) (2023-10-09)
+
+
+### 🐛 Bug Fixes
+
+* upgrade to 0.86 ([8e95bd8](https://github.com/AtomiCloud/sulfoxide.lithium/commit/8e95bd8d0b2ec9973845bbcbc379c4045e63666d))
+
 ## [1.5.0](https://github.com/AtomiCloud/sulfoxide.lithium/compare/v1.4.0...v1.5.0) (2023-10-09)
 
 
