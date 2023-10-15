@@ -1,3 +1,10 @@
+## [1.6.0](https://github.com/AtomiCloud/sulfoxide.lithium/compare/v1.5.1...v1.6.0) (2023-10-15)
+
+
+### 🚀 New Features
+
+* values for vcluster landscapes ([15225b4](https://github.com/AtomiCloud/sulfoxide.lithium/commit/15225b4a000842029cfb1707199aff025a2128af))
+
 ## [1.5.1](https://github.com/AtomiCloud/sulfoxide.lithium/compare/v1.5.0...v1.5.1) (2023-10-09)
 
 
