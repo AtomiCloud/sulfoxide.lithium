@@ -3,9 +3,9 @@ name: sulfoxide-lithium
 description: Helm chart to deploy operators for OTEL Collectors for infrastructure telemetry for AtomiCloud
 type: application
 version: 1.6.0
-appVersion: "0.39.1"
+appVersion: "0.42.3"
 dependencies:
   - name: opentelemetry-operator
     alias: otel
     repository: https://open-telemetry.github.io/opentelemetry-helm-charts
-    version: 0.39.1
+    version: 0.42.3
