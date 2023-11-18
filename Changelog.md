@@ -1,3 +1,10 @@
+## [1.7.0](https://github.com/AtomiCloud/sulfoxide.lithium/compare/v1.6.0...v1.7.0) (2023-11-18)
+
+
+### 🚀 New Features
+
+* ruby values ([32b0e32](https://github.com/AtomiCloud/sulfoxide.lithium/commit/32b0e32cb56efe6223a0ccc9c744251f374dfa2b))
+
 ## [1.6.0](https://github.com/AtomiCloud/sulfoxide.lithium/compare/v1.5.1...v1.6.0) (2023-10-15)
 
 
