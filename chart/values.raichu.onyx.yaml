@@ -1,0 +1,22 @@
+serviceTree:
+  landscape: &landscape raichu
+  cluster: &cluster onyx
+
+tags: &tags
+  atomi.cloud/landscape: *landscape
+  atomi.cloud/cluster: *cluster
+
+otel:
+  replicaCount: 3
+  manager:
+    resources:
+      requests:
+        cpu: 62m
+        memory: 64Mi
+      limits:
+        cpu: 500m
+        memory: 512Mi
+    podAnnotations:
+      <<: *tags
+    podLabels:
+      <<: *tags
