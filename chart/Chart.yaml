@@ -2,7 +2,7 @@ apiVersion: v2
 name: sulfoxide-lithium
 description: Helm chart to deploy operators for OTEL Collectors for infrastructure telemetry for AtomiCloud
 type: application
-version: 1.7.0
+version: 1.8.0
 appVersion: "0.42.3"
 dependencies:
   - name: opentelemetry-operator

@@ -1,3 +1,15 @@
+## [1.8.0](https://github.com/AtomiCloud/sulfoxide.lithium/compare/v1.7.0...v1.8.0) (2024-02-08)
+
+
+### 🚀 New Features
+
+* onyx cluster ([a735f07](https://github.com/AtomiCloud/sulfoxide.lithium/commit/a735f07cc2e76bd7a71011a4b21a8c8681250ce1))
+
+
+### 🐛 Bug Fixes
+
+* releaser ([5942a64](https://github.com/AtomiCloud/sulfoxide.lithium/commit/5942a641322d6a58cc43b9eb37932dba04e9eec7))
+
 ## [1.7.0](https://github.com/AtomiCloud/sulfoxide.lithium/compare/v1.6.0...v1.7.0) (2023-11-18)
 
 
