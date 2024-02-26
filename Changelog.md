@@ -1,3 +1,10 @@
+## [1.8.1](https://github.com/AtomiCloud/sulfoxide.lithium/compare/v1.8.0...v1.8.1) (2024-02-26)
+
+
+### 🐛 Bug Fixes
+
+* reduce resources ([843e3e6](https://github.com/AtomiCloud/sulfoxide.lithium/commit/843e3e6e6bb2207ae22ad23ec7833cdf7c651f78))
+
 ## [1.8.0](https://github.com/AtomiCloud/sulfoxide.lithium/compare/v1.7.0...v1.8.0) (2024-02-08)
 
 
