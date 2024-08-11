@@ -1,3 +1,10 @@
+## [1.9.0](https://github.com/AtomiCloud/sulfoxide.lithium/compare/v1.8.1...v1.9.0) (2024-08-11)
+
+
+### 📦 Upstreams Changes
+
+* upgrade nix, helm upstream, GHA ([2257d9d](https://github.com/AtomiCloud/sulfoxide.lithium/commit/2257d9d249684909af1b1d6f34d6f8e130ad02b8))
+
 ## [1.8.1](https://github.com/AtomiCloud/sulfoxide.lithium/compare/v1.8.0...v1.8.1) (2024-02-26)
 
 
