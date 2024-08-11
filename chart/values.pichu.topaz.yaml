@@ -1,0 +1,22 @@
+serviceTree:
+  landscape: &landscape pichu
+  cluster: &cluster topaz
+
+tags: &tags
+  atomi.cloud/landscape: *landscape
+  atomi.cloud/cluster: *cluster
+
+otel:
+  replicaCount: 1
+  manager:
+    resources:
+      requests:
+        cpu: 10m
+        memory: 32Mi
+      limits:
+        cpu: 250m
+        memory: 256Mi
+    podAnnotations:
+      <<: *tags
+    podLabels:
+      <<: *tags
