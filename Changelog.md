@@ -1,3 +1,11 @@
+## [1.11.0](https://github.com/AtomiCloud/sulfoxide.lithium/compare/v1.10.0...v1.11.0) (2024-08-28)
+
+
+### 🚀 New Features
+
+* remove onyx ([96bfbae](https://github.com/AtomiCloud/sulfoxide.lithium/commit/96bfbaeeaf0579f70abf8eb233b8af892782f5c0))
+* values for mica & talc ([d3036c0](https://github.com/AtomiCloud/sulfoxide.lithium/commit/d3036c034d2ccb119c9c3d7fe8b02d8c0942f077))
+
 ## [1.10.0](https://github.com/AtomiCloud/sulfoxide.lithium/compare/v1.9.0...v1.10.0) (2024-08-11)
 
 
