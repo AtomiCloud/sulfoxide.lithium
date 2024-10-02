@@ -1,3 +1,10 @@
+## [1.12.0](https://github.com/AtomiCloud/sulfoxide.lithium/compare/v1.11.0...v1.12.0) (2024-10-02)
+
+
+### 📦 Upstreams Changes
+
+* **atominix:** ugrading to 28.0.0 ([bf8c507](https://github.com/AtomiCloud/sulfoxide.lithium/commit/bf8c50702a3db098a2b6a4fb1db1ced41c514abc))
+
 ## [1.11.0](https://github.com/AtomiCloud/sulfoxide.lithium/compare/v1.10.0...v1.11.0) (2024-08-28)
 
 
